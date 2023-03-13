@@ -18,6 +18,7 @@ M.lspconfig_to_package = {
     ["bicep"] = "bicep-lsp",
     ["bright_script"] = "brighterscript",
     ["bsl_ls"] = "bsl-language-server",
+    ["buf"] = "buf",
     ["bufls"] = "buf-language-server",
     ["clangd"] = "clangd",
     ["clarity_lsp"] = "clarity-lsp",
